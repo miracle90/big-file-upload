@@ -8,6 +8,8 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "element-ui": "^2.15.6",
+    "multiparty": "^4.2.3",
     "vue": "^2.6.11"
   },
   "devDependencies": {

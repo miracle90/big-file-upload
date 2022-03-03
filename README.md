@@ -1,19 +1,9 @@
-# big-file-upload
+# 前端复杂案例汇总
 
-## Project setup
-```
-yarn install
-```
+### 大文件的分片上传、断点续传及其相关拓展
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+### 当后端一次性丢给你10万条数据, 作为前端工程师的你,要怎么处理?
 
-### Compiles and minifies for production
-```
-yarn build
-```
+### 接口怎么防刷
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### 未完待续。。。
