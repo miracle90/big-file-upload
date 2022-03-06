@@ -177,6 +177,7 @@ export default {
     handleFileChange(e) {
       const [file] = e.target.files;
       if (!file) return;
+      console.log(file)
       this.resetData();
       Object.assign(this.$data, this.$options.data());
       this.container.file = file;
